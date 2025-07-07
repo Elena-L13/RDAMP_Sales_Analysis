@@ -77,7 +77,7 @@ East Midlands leads all other regions, worth investigating what drives growth th
 | 20   | Garden & DIY        | £9,164           | 13.8%                  |
 
  **Insight**:  
-The top 20 segments account for the majority of revenue. Most maintain discount rates between 13% and 16%, indicating consistent promotional strategies. Segments such as Electronics and Technology achieve high sales with above-average discounting, suggesting opportunities for strategic pricing optimisation.
+Most maintain discount rates between 13% and 16%, indicating consistent promotional strategies. Segments such as Electronics and Technology achieve high sales, suggesting opportunities for revenue optimisation.
 
 ---
 
@@ -100,11 +100,11 @@ The top 20 segments account for the majority of revenue. Most maintain discount 
 - Canned Black Beans  
 
 **Insight**:  
-Top products align with high-revenue segments such as Kitchen, Outdoor and Electronics, reflecting strong consumer demand and higher-value purchases. In contrast, the bottom 5 (from segments such as Condiments and Baking Ingredients) contribute minimally to revenue, suggesting limited demand.
+Top products align with high-revenue segments such as Kitchen, Outdoor and Electronics, reflecting strong consumer demand and higher-value purchases. In contrast, the bottom 5 (from segments such as Condiments and Baking Ingredients) suggest limited demand for such products.
 
 ---
 
-## 4Category Profitability
+## 4 Category Profitability
 
 **Margin Calculation**:  
 `(Sales - Cost Price) / Sales`
@@ -149,7 +149,7 @@ Online orders’ slight dominance indicates a customer preference for convenienc
 Based on the analysis, the following actions are recommended:
 
 1. **Double down on high-performing regions** such as East Midlands, by identifying key drivers.
-2. **Optimise pricing strategies** in segments such as Electronics and Technology, where high sales coincide with elevated discount rates.
+2. **Optimise pricing strategies** in segments such as Electronics and Technology.
 3. **Invest in high-margin categories** such as Grooming and Wearable Tech to maximise profitability.
 4. **Reevaluate underperforming products** in Baking Ingredients and Condiments for potential delisting or repositioning.
 5. **Enhance digital strategy** to capitalise on online sales, consider targeted ads and UX improvements.
