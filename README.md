@@ -12,7 +12,7 @@ The objective of this project is to extract actionable insights from ACE Retailâ
 - Regional and segment-level sales performance
 - Product and category profitability analysis
 - Online versus in-store order trends
-- Interactive dashboards created in Tableau
+- Charts and dashboards created in Tableau
 
 ---
 
