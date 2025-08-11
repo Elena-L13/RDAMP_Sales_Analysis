@@ -44,7 +44,7 @@ The dataset was cleaned and standardised to ensure accuracy in the analysis. All
 | Wales                  | £4,324      | 15%               |
 | North East             | £4,189      | 16%               |
 
- **Insight**:  
+**Insight**
 East Midlands leads all other regions, worth investigating what drives growth there. North East and Wales underperform significantly, suggesting potential for a marketing push or operational review. Despite higher sales volumes, East Midlands maintains a discount rate in line with national norms, indicating consistent pricing across regions.
 
 ---
@@ -76,7 +76,7 @@ East Midlands leads all other regions, worth investigating what drives growth th
 | 19   | Cleaning Products   | £9,495           | 13.9%                  |
 | 20   | Garden & DIY        | £9,164           | 13.8%                  |
 
- **Insight**:  
+**Insight**:
 Most maintain discount rates between 13% and 16%, indicating consistent promotional strategies. Segments such as Electronics and Technology achieve high sales, suggesting opportunities for revenue optimisation.
 
 ---
@@ -99,7 +99,7 @@ Most maintain discount rates between 13% and 16%, indicating consistent promotio
 - Flavored Rice Cakes  
 - Canned Black Beans  
 
-**Insight**:  
+**Insight**:
 Top products align with high-revenue segments such as Kitchen, Outdoor and Electronics, reflecting strong consumer demand and higher-value purchases. In contrast, the bottom 5 (from segments such as Condiments and Baking Ingredients) suggest limited demand for such products.
 
 ---
@@ -126,7 +126,7 @@ Top products align with high-revenue segments such as Kitchen, Outdoor and Elect
 | 9    | Books            | 69.08%        |
 | 10   | Health           | 68.99%        |
 
-**Insight**:  
+**Insight**:
 The top-performing categories by profit margin (such as Grooming, Baby and Storage) stand out for their strong profitability, likely driven by low production costs or premium pricing. Wearable Tech and Home Security also rank high, reinforcing earlier findings that Electronics and Outdoor segments are not only top revenue drivers but also highly profitable.  
 Meanwhile, categories such as Travel and Office, though not top sellers, show strong margins, highlighting untapped potential for growth through targeted campaigns.
 
@@ -139,7 +139,7 @@ A pie chart analysis reveals that online orders outpace in-store purchases by 6.
 
 ![Sales distribution](visuals/sales_distribution_pie_chart.png)
 
-**Insight**:  
+**Insight**:
 Online orders’ slight dominance indicates a customer preference for convenience and online orders that could be strengthened with investment in digital marketing, e-commerce optimisation and online-exclusive promotions.
 
 ---
